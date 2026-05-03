@@ -16,8 +16,8 @@ const content = {
   // featured: true gives the card a gold treatment (use for Work With Me).
   links: [
     {
-      label: "Free Resources",
-      description: "Free guides, templates & tools to help you grow",
+      label: "YouTube",
+      description: "Watch my latest videos on business, content & mindset",
       url: "https://www.youtube.com/@iprinceoshan/videos",
       icon: "▶️",
       iconPath: "/icon-youtube.webp",
@@ -26,7 +26,7 @@ const content = {
     {
       label: "Weekly Newsletter",
       description: "Real insights on business, content & mindset — every week",
-      url: "https://princeoshan.com/newsletter",
+      url: "https://princeoshan.substack.com/",
       icon: "📬",
       iconPath: "/icon-newsletter.svg",
       featured: false,
