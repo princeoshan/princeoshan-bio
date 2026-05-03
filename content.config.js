@@ -18,9 +18,9 @@ const content = {
     {
       label: "Free Resources",
       description: "Free guides, templates & tools to help you grow",
-      url: "https://princeoshan.com/resources",
-      icon: "🎁",
-      iconPath: null,
+      url: "https://www.youtube.com/@iprinceoshan/videos",
+      icon: "▶️",
+      iconPath: "/icon-youtube.webp",
       featured: false,
     },
     {
