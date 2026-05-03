@@ -1,8 +1,8 @@
 const content = {
   // ─── Profile ───────────────────────────────────────────────────────────────
   name: "Prince Oshan",
-  tagline: "Creator · Entrepreneur · Artist",
-  bio: "Building things that matter. Join the journey.",
+  tagline: "FOUNDER · BUILDER · GUIDE",
+  bio: "Gurus sell the dream. I show you the exact system I use to build mine.",
   photoPath: "/profile.jpg",
 
   // ─── WhatsApp ──────────────────────────────────────────────────────────────
@@ -17,23 +17,23 @@ const content = {
   links: [
     {
       label: "YouTube",
-      description: "Watch my latest videos on business, content & mindset",
+      description: "Watch me build a real business in public — every step, no theory",
       url: "https://www.youtube.com/@iprinceoshan/videos",
       icon: "▶️",
       iconPath: "/icon-youtube.webp",
       featured: false,
     },
     {
-      label: "Weekly Newsletter",
-      description: "Real insights on business, content & mindset — every week",
-      url: "https://princeoshan.substack.com/",
-      icon: "📬",
-      iconPath: "/icon-newsletter.svg",
+      label: "WhatsApp Community",
+      description: "Join the community. Real builders only.",
+      url: "https://chat.whatsapp.com/BtBM962l3BX0utOydUPs3T",
+      icon: "💬",
+      iconPath: null,
       featured: false,
     },
     {
       label: "Oshan Academy",
-      description: "Courses to help you build and grow online",
+      description: "Free build sessions + paid implementation programs. Start free.",
       url: "https://www.oshanacademy.com",
       icon: "🎓",
       iconPath: "/icon-academy.png",
@@ -41,7 +41,7 @@ const content = {
     },
     {
       label: "Work With Me",
-      description: "Let's build something great together",
+      description: "Book a 1-on-1 call. I'll tell you exactly what to fix first.",
       url: "https://superprofile.bio/bookings/princeoshan?sessionId=666ad9641022650014ea3427",
       icon: "🚀",
       iconPath: "/icon-work-with-me.jpg",
